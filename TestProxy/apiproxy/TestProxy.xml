@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="TestProxy">
+    <Basepaths>/testproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1694707872540</CreatedAt>
+    <CreatedBy>akhiladasari87@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>TestProxy</DisplayName>
+    <LastModifiedAt>1694753476716</LastModifiedAt>
+    <LastModifiedBy>akhiladasari87@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:3b9b55d3bd2c29b3c3a47dde2e36e31c6ec42150a7fda54ef9562bb25e5f50dcb04d4f925c1b26f72a1f66622449a658ae69acc9e38127c70e01205f635b1ac9:eu-west-1</ManifestVersion>
+    <Policies>
+        <Policy>CORS</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
