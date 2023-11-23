@@ -8,6 +8,6 @@
             <Header name="Access-Control-Allow-Methods">GET, PUT, POST, DELETE</Header>
         </Headers>
     </Add>
-    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
     <AssignTo createNew="false" transport="http" type="request"/>
 </AssignMessage>
